@@ -1,1 +1,2 @@
-# Person A - Second Local Change
+# Final Title After First Conflict
+
